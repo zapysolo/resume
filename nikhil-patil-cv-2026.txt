@@ -1,0 +1,151 @@
+NIKHIL PATIL
+Software Engineer | Scalable Architectures | Full-Stack Development
+
+nikhil.patil.work@zohomail.in
++91 7774072857
+linkedin.com/in/nikhilpatil8217
+Navi Mumbai
+
+Summary
+======
+Software Engineer with 4+ years of experience building and shipping production-grade systems across fintech, agri-tech, logistics, and e-commerce domains. I specialize in backend development — designing scalable architectures, optimizing databases, and owning projects end-to-end. Comfortable across the full stack, from Node.js APIs and PostgreSQL schemas to React-based backoffices and React Native (Expo) mobile apps.
+
+
+Skills
+======
+Backend
+ - Node.js
+ - Express.js
+ - Koa.js
+ - PostgreSQL
+ - MongoDB
+ - Redis
+ - SQS
+ - Knex
+ - TypeScript
+
+Frontend
+ - React
+ - Next.js
+ - TailwindCSS
+ - Ant Design
+ - React Native (Expo)
+
+Infrastructure & Tools
+ - AWS (EC2
+ - S3)
+ - PM2
+ - New Relic
+ - Prometheus
+ - Git
+ - Postman
+ - Linux
+
+Concepts & Architectures
+ - REST APIs
+ - WebSockets
+ - RPA
+ - Microservices
+ - Offline-first Architecture
+ - Google Play Store Deployment
+
+
+Experience
+======
+Software Engineer (Freelance)
+Woodbox Software Technologies
+04/2026 - Present
+Remote
+
+- ◆ VyaparCred — Solar Financing Platform
+Stack: Hercules.app · React · Convex · TypeScript · Puppeter · MongoDB · AWS
+- • Architecting and building the platform using Hercules.app, owning the system end-to-end from design to deployment.
+- • Managing AWS EC2 infrastructure setup, hosting, and cloud deployment.
+- • Handling full project management — sprint planning, requirement clarification, testing, and bug fixes across all phases.
+- • Building buyer onboarding flow, financing negotiations, document uploads, solar product catalogue, and order management.
+- 
+
+
+Senior Software Engineer
+ServerLane Technologies
+03/2022 - 11/2025
+Mumbai, India
+
+◆ Office Automation — Account & Transaction Management PlatformStack: Node.js · PostgreSQL · Puppeteer · React · Next.js · TypeScript · MongoDB · SQS
+- • Built v2 platform with RBAC at the API level, transaction reconciliation, and bonus calculation across 6 offices.
+- • Managed multi-office data architecture supporting 6 offices and their sub-branches from a centralized database.
+- • Sole developer of RPA workflows using Puppeteer to automate data extraction from third-party sites.
+- • Improved DB performance by ~25% for 75k+ transactions via indexing, read/write separation, and query optimization.
+- • Integrated SQS queues and third-party webhooks for payment confirmations and transaction tracking.
+- • Delivered user-facing SPA alongside internal backoffice in React.
+
+◆ Goldman City — Gold Loan Management ApplicationStack: Node.js · Express · PostgreSQL · React · Redis · Flutter • Led backend development and built the React admin panel as primary engineer. • Managed mobile app deployment to Play Store; acted as code reviewer for intern.
+
+◆ Protopak — 3D Food Packaging CustomizerStack: Next.js · Tailwind CSS · Express · PostgreSQL · Pacdora API • Sole engineer; integrated Pacdora API for 3D in-browser packaging editor.
+• Built full backoffice covering product customization, order management, delivery and user management.
+
+Software Engineer
+TidalWave Technology Limited
+03/2021 - 03/2022
+Navi Mumbai
+
+◆ Fefifo — Agri-Tech PlatformStack: Koa.js · ArangoDB · PouchDB · CouchDB · React Native (Expo) · React · Ant Design · AWS (EC2, S3)
+
+- • Built and maintained Koa.js backend APIs across 30+ modules; fixed legacy bugs and developed new APIs.
+- • Designed and owned ArangoDB schemas for harvest tracking, worker salary management, and per-crop tracking.
+- • Developed React backoffice screens for worker, admin, and operator management — harvest cycles, reports, and salary.
+- • Maintained a private npm package shared across backend and mobile — handled versioning, publishing, and deployment.
+- • Built offline-first React Native app with PouchDB/CouchDB sync for field workers in low/no connectivity environments.
+- • Participated in daily client-facing standups, communicating progress and clarifying requirements directly.
+
+Software Engineer Intern
+TidalWave Technology Limited
+11/2020 - 03/2021
+Navi Mumbai
+
+◆ Fefifo — Agri-Tech Platform (React Native)
+Stack: React Native · Koa.js · ArangoDB
+• Worked on the React Native mobile application building and integrating core app modules.
+• Gained hands-on backend exposure by making database query changes in Koa.js as part of feature development.
+
+Software Developer Intern
+CreativeWebo Digital Agency
+11/2019 - 01/2020
+Kurla, Mumbai
+
+◆ care32dental.com — Dental Clinic Website
+Stack: WordPress · PHP · MySQL · HTML
+- • Injected custom PHP scripts to integrate a payment gateway into an existing WordPress site.
+- • Implemented membership plan selection with custom HTML receipts and invoices.
+- • Automated email delivery to customers post-payment.
+- • Deployed updates via FileZilla FTP client to a custom cPanel hosting environment.
+
+◆ AU Bank — Mobile Banking App
+Stack: React Native
+• Built the Home module UI of the AU Bank mobile app with navigation flow and API integration.
+- • Developed user onboarding flow handling screen transitions and user state.
+- • Followed and implemented team-defined folder structure and coding conventions.
+
+
+Languages
+======
+English
+
+Hindi
+
+
+COURSES
+======
+E Developer Certification RVR Institute Vashi, 2016
+
+
+Education
+======
+Post Graduate Certificate, Artificial Intelligence (Online Program)
+IIIT Bangalore
+11/2025
+
+B.E. Computer Science & Engineering
+Rajendra Mane College of Engineering & Technology
+2017 - 2021
+
